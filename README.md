@@ -15,10 +15,15 @@ Ce projet est le quatrième laboratoire pratique du module de développement mob
 L'application propose une interface interactive avec les éléments suivants :
 
 Navigation entre les Sections : Deux boutons en haut de l’écran permettent de basculer entre la Section A et la Section B.
+
 Section A : Une zone de texte affiche un message de bienvenue ou le résultat d’une action déclenchée par l’utilisateur.
+
 Action "Action" : Un bouton dans la Section A permet de modifier le texte affiché à l’écran.
+
 Section B : Une interface dédiée permet d’interagir avec un curseur pour sélectionner une valeur.
+
 Sélection de Valeur : Un SeekBar permet de choisir un niveau et d’afficher la valeur actuelle en temps réel.
+
 Interface Personnalisée : L’application utilise un design simple avec des boutons arrondis, des couleurs distinctes pour chaque section et une présentation claire.
 
 ## Technologies Utilisées
